@@ -1,11 +1,11 @@
-import { Paper } from '@material-ui/core';
-import Typography from './components/typography';
-import Button from './components/button';
-import Img from './components/img';
-import Grid from './components/grid';
-import Navegation from './components/views/components/navegation';
-import Footer from './components/views/components/footer';
-import Link from './components/link';
+import { Paper } from "@material-ui/core";
+import Typography from "./components/typography";
+import Button from "./components/button";
+import Img from "./components/img";
+import Grid from "./components/grid";
+import Navegation from "./components/views/components/navegation";
+import Footer from "./components/views/components/footer";
+import Link from "./components/link";
 
 function App() {
   return (
